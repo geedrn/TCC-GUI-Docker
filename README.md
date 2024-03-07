@@ -1,9 +1,7 @@
 # 📊 TCC-GUI: Graphical User Interface for TCC package
 ### About TCC-GUI
 This repository only aims to make TCC-GUI dockered. 
-Users are responsible for checking the original repository and all the citations. 
-
-Users also should refer to the original repository to learn TCC-GUI.
+Users are responsible for checking the original repository, all the citations and code of conducts. 
 https://github.com/swsoyee/TCC-GUI
 
 ### How I made a dockerfile
