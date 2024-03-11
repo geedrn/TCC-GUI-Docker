@@ -1,6 +1,8 @@
 # 📊 TCC-GUI: Graphical User Interface for TCC package
 ### About TCC-GUI
-This repository only aims to make TCC-GUI dockered. 
+This repository only aims to make TCC-GUI dockered. This image works well on MacBook Pro Intel chip.
+If you are using Apple silicon, go to https://github.com/geedrn/TCC-GUI-Docker_Apple.
+
 Users are responsible for checking the original repository, all the citations and code of conducts. 
 https://github.com/swsoyee/TCC-GUI
 
