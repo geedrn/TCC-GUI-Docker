@@ -35,7 +35,7 @@ utils
 ```
 
 I made a description file following these packages and used renv::hydrate() instead. Docker image sustains the versions of R package in itself and the strategy sounds fair to me. TCC is somehow difficult to install so I added a line separately.
-This docker image was tested on my computer (MBP 2019, Intel core i7). I am considering to test this on MBP 20XX, Apple silicon.
+This docker image was tested on my computer (MBP 2019, Intel core i7). I am considering to test this on MBP 2021 (?), Apple silicon.
 
 ### How to use the dockered TCC-GUI
 Turn on your Docker Desktop app!
